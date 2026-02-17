@@ -1,5 +1,7 @@
-#include <iostream>
-int main(){
-	std::cout << "Bienvenue !" << std::endl;
-	return 0;
+#include "fonction-bienvenue.h"
+
+int main()
+{
+    afficherBienvenue();
+    return 0;
 }
