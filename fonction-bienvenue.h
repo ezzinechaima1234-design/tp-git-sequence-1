@@ -1,0 +1,5 @@
+#ifndef FONCTION_BIENVENUE_H
+#DEFINE FONCTION_BIENVENUE_H
+
+void afficherBienvenue();
+#endif // FONCTION_BIENVENUE_H
