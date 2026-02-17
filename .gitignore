@@ -5,3 +5,4 @@ bienvenue
 *.o
 #fichiers temporaires
 *~
+*.zip
